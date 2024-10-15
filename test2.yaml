@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <script x>test</script z> 
+  description: <img src="javascript:confirm(0)"> 
 paths:
   /:
     get:
