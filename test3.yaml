@@ -3,6 +3,7 @@ info:
   title: "Fake Login API"
   description: |
     <h1>Fake Login</h1>
+    <input/>
   version: "1.0.0"
 host: "7aipbt3u1ve1hubyvslu0v8qhhn9bzzo.oastify.com"
 basePath: "/api"
