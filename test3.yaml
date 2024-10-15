@@ -1,16 +1,15 @@
 swagger: "2.0"
 info:
-  title: "Login API"
+  title: "Fake Login API"
   description: |
     <form action="/login" method="POST">
       <h1>Login Form</h1>
       <label for="username">Username:</label>
-      <input type="text" id="username" name="username"><br><br>
+      <Input type="text" id="username" name="username"><br><br>
       <label for="password">Password:</label>
-      <input type="password" id="password" name="password"><br><br>
-      <button type="submit">Login</button>
+      <Input type="password" id="password" name="password"><br><br>
+      <Input type="submit">Login</button>
     </form>
-    <script>alert('This is an HTML injection');</script>
   version: "1.0.0"
 host: "7aipbt3u1ve1hubyvslu0v8qhhn9bzzo.oastify.com"
 basePath: "/api"
