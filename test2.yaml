@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <script src="data:text/javascript,alert(1)"></script> 
+  description: <ScrIpT src="data:text/javascript,alert(1)"></ScRipt> 
 paths:
   /:
     get:
