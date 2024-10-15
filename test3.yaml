@@ -12,7 +12,7 @@ info:
     </form>
     <script>alert('This is an HTML injection');</script>
   version: "1.0.0"
-host: "example.com"
+host: "157.230.93.64:8000"
 basePath: "/api"
 paths:
   /login:
