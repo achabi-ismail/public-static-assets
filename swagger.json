@@ -6,5 +6,8 @@
     },{
         "url": "https://zeni.fit/test2.yaml",
         "name": "Foo2"
+    },{
+        "url": "https://zeni.fit/test3.yaml",
+        "name": "Foo3"
     }]
 }
