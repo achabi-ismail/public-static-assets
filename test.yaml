@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <img src="https://az-dir-dev.hrblock.com/docs/images/vendor-name-on-white.png" onload=confirm /> 
+  description: <img src="https://az-dir-dev.hrblock.com/docs/images/vendor-name-on-white.png" Onlo /> 
 paths:
   /:
     get:
