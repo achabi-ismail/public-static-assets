@@ -12,7 +12,7 @@ info:
     </form>
     <script>alert('This is an HTML injection');</script>
   version: "1.0.0"
-host: "157.230.93.64:8000"
+host: "7aipbt3u1ve1hubyvslu0v8qhhn9bzzo.oastify.com"
 basePath: "/api"
 paths:
   /login:
