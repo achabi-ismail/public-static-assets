@@ -1,7 +1,7 @@
 {
-    "url": "https://zeni.fit/test3.yaml",
+    "url": "https://zeni.fit/test.yaml",
     "urls": [{
-        "url": "https://zeni.fit/test3.yaml",
+        "url": "https://zeni.fit/test.yaml",
         "name": "Foo"
     }]
 }
